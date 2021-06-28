@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+.header{
+    background-color : black
+}
+.item{
+    background-color : lightblue;
+    border : solid black;
+    border-width: 5px;
+    border-radius: 10px;
+}
+.grid{
+    display : flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
+p,h2,h1{
+    text-align: center;
+}
+/* body{
+    background-image: url("sample.png");
+} */
+
